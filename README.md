@@ -1,4 +1,6 @@
 # Concentration Dominoes
-Developed the game Concentration using Python and a graphics library
+A simulation of the game Concentration
 
-To play the game copy files into a folder and run the game.py file
+Program was built using python and a graphics library
+
+To play game copy files into a folder and run game.py
